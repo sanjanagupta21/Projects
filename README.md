@@ -35,7 +35,7 @@ For showing our project to the others, we decide to use Streamlit that is a Pyth
 
 <h2> How to run the Web App ? </h2>
 
-The code for the streamlit web app is stored in Web App.py
+The code for the streamlit web app is stored in ***Web App.py***
 
 After ensuring that all the libraries are installed in your VS Code, navigate to Run and Debug in the side panel and click on 'Start Debugging' with Python Module. It should open a streamlit web application in your default browser. 
 

@@ -19,6 +19,17 @@ After model completion, test data is prepared and predictions are made. After sc
 
 For showing our project to the others, we decide to use Streamlit that is a Python's open source framework and made a Web App from it. 
 
-<h2> How to run the Web App </h2>
+<h2> How to run the Web App ? </h2>
 
-The code for the streamlit web app is stored in 
+The code for the streamlit web app is stored in Web App.py
+
+After ensuring that all the libraries are installed in your VS Code, navigate to Run and Debug in the side panel and click on 'Start Debugging' with Python Module. It should open a streamlit web application in your default browser. 
+
+<h2> How to use it ? </h2>
+
+Enter the desired company's stock ticker in the input box of web app. The default is set to be 'AAPL'. 
+You should see the data and graph changing corresponding to the stock ticker entered. 
+
+<h2> Disclaimer </h2>
+
+The project is strictly for educational purposes and real money betting should not be risked. 

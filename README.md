@@ -19,4 +19,6 @@ After model completion, test data is prepared and predictions are made. After sc
 
 For showing our project to the others, we decide to use Streamlit that is a Python's open source framework and made a Web App from it. 
 
-#How to run the Web App
+<h2> How to run the Web App </h2>
+
+The code for the streamlit web app is stored in 

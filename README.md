@@ -1,5 +1,19 @@
 # Stock-Price-Prediction using LSTM
 
+<h2> Required Modules </h2>
+
+* Steamlit
+* Tensorflow
+* Keras
+* Numpy
+* Pandas
+* Matplotlib
+* Yahoo Finance
+* pandas_datareader
+* scikit-learn
+
+<h2> In a Nutshell </h2>
+
 The project is made on Jupyter Notebook and VS Code. 
 
 The prediction is done on closing prices from the data acquired through the python's yfinance module that allows the user to collect stock information of companies without any cost. 
